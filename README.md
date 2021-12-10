@@ -1,2 +1,3 @@
 # image-classification
-a simple image classification project using convolutional neural network
+a simple image classification project using neural network.
+
